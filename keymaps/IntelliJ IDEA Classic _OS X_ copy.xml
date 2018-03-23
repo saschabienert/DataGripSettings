@@ -9,4 +9,5 @@
   </action>
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
+  <action id="Replace" />
 </keymap>
