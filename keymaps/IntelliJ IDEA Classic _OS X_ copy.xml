@@ -4,6 +4,9 @@
   <action id="EditSource">
     <mouse-shortcut keystroke="button1" />
   </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
@@ -12,4 +15,5 @@
   </action>
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
+  <action id="Replace" />
 </keymap>
