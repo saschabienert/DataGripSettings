@@ -1,9 +1,7 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
-  <action id="EditSource">
-    <mouse-shortcut keystroke="button1" />
-  </action>
+  <action id="EditSource" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift meta #10000a7" />
   </action>
