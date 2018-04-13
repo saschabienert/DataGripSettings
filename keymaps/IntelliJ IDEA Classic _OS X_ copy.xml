@@ -1,6 +1,9 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="EditSource">
+    <mouse-shortcut keystroke="button1" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
